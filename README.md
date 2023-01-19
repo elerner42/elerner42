@@ -3,5 +3,5 @@
 > This is elerner42's GitHub :rocket:
 
 # :space_invader: En Desarrollo... :radioactive:
-| ![Twiter Followers](https://img.shields.io/twitter/follow/ernesto_lerner.svg?style=social) | ![GitHub followers](https://img.shields.io/github/followers/elerner42?style=social) | ![GitHub Descargas](https://img.shields.io/github/downloads/elerner42/42_libft/total?style=social) | 
-| :----------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| ![Twiter Followers](https://img.shields.io/twitter/follow/ernesto_lerner.svg?style=social) | ![GitHub followers](https://img.shields.io/github/followers/elerner42?style=social) | ![GitHub Descargas](https://img.shields.io/github/downloads/elerner42/42_libft/total?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/elerner42/42_libft?color=blue&label=Commit_Activity) |
+| :----------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
