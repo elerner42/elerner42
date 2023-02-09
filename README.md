@@ -12,6 +12,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red) -->
 ### :radioactive: GitHub Actividad
+![GitHub followers](https://img.shields.io/github/gist/stars/:gistId)<br>
 ![GitHub followers](https://img.shields.io/github/followers/elerner42?style=social)<br>
 ![GitHub Descargas](https://img.shields.io/github/downloads/elerner42/42_libft/total?style=social)<br>
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/elerner42/42_libft?logo=GitHub&style=social&label=Repo.:42_libft_Commits)
